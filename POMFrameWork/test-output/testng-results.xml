@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33755" started-at="2022-07-29T14:08:52 EDT" finished-at="2022-07-29T14:09:25 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33755" started-at="2022-07-29T14:08:52 EDT" finished-at="2022-07-29T14:09:25 EDT">
+      <class name="tests.TDLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TDLogin@74235045]" name="beforeMethod" is-config="true" duration-ms="7377" started-at="2022-07-29T14:08:52 EDT" finished-at="2022-07-29T14:08:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login()[pri:0, instance:tests.TDLogin@74235045]" name="login" duration-ms="3836" started-at="2022-07-29T14:08:59 EDT" finished-at="2022-07-29T14:09:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TDLogin@74235045]" name="afterMethod" is-config="true" duration-ms="1163" started-at="2022-07-29T14:09:03 EDT" finished-at="2022-07-29T14:09:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TDLogin@74235045]" name="beforeMethod" is-config="true" duration-ms="5957" started-at="2022-07-29T14:09:04 EDT" finished-at="2022-07-29T14:09:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithEmptyEmail()[pri:0, instance:tests.TDLogin@74235045]" name="loginWithEmptyEmail" duration-ms="3444" started-at="2022-07-29T14:09:10 EDT" finished-at="2022-07-29T14:09:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmptyEmail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TDLogin@74235045]" name="afterMethod" is-config="true" duration-ms="1087" started-at="2022-07-29T14:09:13 EDT" finished-at="2022-07-29T14:09:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TDLogin@74235045]" name="beforeMethod" is-config="true" duration-ms="6045" started-at="2022-07-29T14:09:15 EDT" finished-at="2022-07-29T14:09:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithEmptyPass()[pri:0, instance:tests.TDLogin@74235045]" name="loginWithEmptyPass" duration-ms="3629" started-at="2022-07-29T14:09:21 EDT" finished-at="2022-07-29T14:09:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmptyPass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TDLogin@74235045]" name="afterMethod" is-config="true" duration-ms="1142" started-at="2022-07-29T14:09:24 EDT" finished-at="2022-07-29T14:09:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.TDLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
